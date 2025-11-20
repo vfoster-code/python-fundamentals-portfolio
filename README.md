@@ -130,7 +130,7 @@ jupyter notebook
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/python-fundamentals-portfolio.git
+git clone https://github.com/vfoster-code/python-fundamentals-portfolio.git
 cd python-fundamentals-portfolio
 ```
 
