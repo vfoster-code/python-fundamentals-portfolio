@@ -25,6 +25,7 @@ This portfolio contains three projects that progressively demonstrate Python fun
 python-fundamentals-portfolio/
 │
 ├── README.md
+├── requirements.txt
 ├── customer-order-report/
 │   ├── customer_order_report.ipynb
 │   ├── customer_order_report.html
@@ -139,7 +140,7 @@ cd python-fundamentals-portfolio
 
 2. Install required packages:
 ```bash
-pip install pandas jupyter
+pip install -r requirements.txt
 ```
 
 3. Launch Jupyter Notebook:
