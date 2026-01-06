@@ -27,12 +27,15 @@ python-fundamentals-portfolio/
 ├── README.md
 ├── customer-order-report/
 │   ├── customer_order_report.ipynb
+│   ├── customer_order_report.html
 │   └── README.md
 ├── grade-analyzer/
 │   ├── grade_analyzer.ipynb
+│   ├── grade_analyzer.html
 │   └── README.md
 └── movie-dataset-analysis/
     ├── movie_dataset_analysis.ipynb
+    ├── movie_dataset_analysis.html
     └── README.md
 ```
 
@@ -145,6 +148,16 @@ jupyter notebook
 ```
 
 4. Open any project notebook to explore the code
+
+### Viewing Without Installation
+
+Each project includes an HTML version of the notebook that can be viewed directly in your browser without installing Python or Jupyter:
+
+- `customer_order_report.html`
+- `grade_analyzer.html`
+- `movie_dataset_analysis.html`
+
+Simply open these files in your web browser to view the code and output.
 
 ## Key Takeaways
 
